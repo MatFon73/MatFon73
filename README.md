@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! 👋 Soy Mateo Fonseca</h1>
 
-Soy **Ingeniero de Sistemas**. Me enfoco en **desarrollo web** y **seguridad informática**. Actualmente, soy programador junior con habilidades básicas en **PHP**, **CSS**, **HTML**, y **JavaScript**, y estoy en constante aprendizaje y mejora.
+Soy **Ingeniero de Sistemas**. Me enfoco en **desarrollo web (en Proceso)** y **seguridad informática (en Proceso)**. Actualmente, soy programador junior con habilidades básicas en **PHP**, **CSS**, **HTML**, y **JavaScript**, y estoy en constante aprendizaje y mejora.
 
 ## Habilidades
 
