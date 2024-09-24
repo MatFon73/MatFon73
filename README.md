@@ -3,6 +3,7 @@
 Soy **Ingeniero de Sistemas**. Me enfoco en **desarrollo web** y **seguridad informática**. Actualmente, soy programador junior con habilidades básicas en **PHP**, **CSS**, **HTML**, y **JavaScript**, y estoy en constante aprendizaje y mejora.
 
 ## Habilidades
+
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
@@ -20,22 +21,20 @@ Soy **Ingeniero de Sistemas**. Me enfoco en **desarrollo web** y **seguridad inf
 </p>
 
 ## Proyectos Destacados
+
 <p align="center">
 
-| Proyectos | Tecnologías | Enlace al Repositorio |
+| 🎁 Proyectos | 🛠️ Tecnologías | 🔗 Estado del Proyecto |
 | --- | --- | --- |
-| Cloud | <p align="center"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </p> | [GitHub Cloud](https://github.com/MatFon73/Cloud) |
-| Servicio De Transportadora | <p align="center"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </p> | [GitHub Servicio De Transportadora](https://github.com/MatFon73/ServicioDeTransportadora) |
-| RockPaperScissor | <p align="center"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </p> | [GitHub RockPaperScissor](https://github.com/MatFon73/RockPaperScissor) |
-| Portafolios | <p align="center"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </p> | [GitHub Portafolios](https://github.com/MatFon73/Portafolios) |
+| Cloud | <p align="center"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </p> | [![GitHub Actions Status](https://img.shields.io/badge/Estado%20del%20Proyecto-Completado-brightgreen)](https://github.com/MatFon73/Cloud) |
+| Servicio De Transportadora | <p align="center"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </p> | [![GitHub Actions Status](https://img.shields.io/badge/Estado%20del%20Proyecto-Completado-brightgreen)](https://github.com/MatFon73/ServicioDeTransportadora) |
+| RockPaperScissor | <p align="center"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </p> | [![GitHub Actions Status](https://img.shields.io/badge/Estado%20del%20Proyecto-Completado-brightgreen)](https://github.com/MatFon73/RockPaperScissor) |
+| Portafolios | <p align="center"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </p> | [![Portafolio](https://img.shields.io/badge/Portafolio-Visitar-blue)](https://github.com/MatFon73/Portafolios) |
 
 </p>
 
-## Redes Sociales
+## Conéctate conmigo
 [![Instagram](https://img.shields.io/badge/Instagram-Seguir-ff69b4)](https://www.instagram.com/matfon73/)
 [![Twitter](https://img.shields.io/badge/Twitter-Seguir-1DA1F2)](https://x.com/MatFon73)
 
-## Hobbies
-En mi tiempo libre, disfruto de los videojuegos, el fútbol, el cine y las series.
-
-¡Gracias por visitar mi perfil!.
+¡Gracias por visitar mi perfil! Estoy abierto a colaborar en proyectos interesantes y seguir aprendiendo cada día más.
