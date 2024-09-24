@@ -21,14 +21,14 @@ Soy **Ingeniero de Sistemas**. Me enfoco en **desarrollo web** y **seguridad inf
 </p>
 
 ## Proyectos Destacados
-
-| 🎁 Proyectos | 🛠️ Tecnologías |
+<p align="center">
+| Proyectos | Tecnologías |
 | --- | --- |
 | [Cloud](https://github.com/MatFon73/Cloud) |<p align="center"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </p> |
 | [Servicio De Transportadora](https://github.com/MatFon73/ServicioDeTransportadora) | <p align="center"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </p> |
 | [RockPaperScissor](https://github.com/MatFon73/RockPaperScissor) | <p align="center"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </p> |
 | [Portafolios](https://github.com/MatFon73/Portafolios) | <p align="center"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </p> |
-
+</p>
 
 ## Hobbies
 En mi tiempo libre, disfruto de los videojuegos, el fútbol, el cine y las series.
