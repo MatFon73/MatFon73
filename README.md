@@ -37,4 +37,4 @@ Soy **Ingeniero de Sistemas**. Me enfoco en **desarrollo web (en Proceso)** y **
 [![Instagram](https://img.shields.io/badge/Instagram-Seguir-ff69b4)](https://www.instagram.com/matfon73/)
 [![Twitter](https://img.shields.io/badge/Twitter-Seguir-1DA1F2)](https://x.com/MatFon73)
 
-¡Gracias por visitar mi perfil! Estoy abierto a colaborar en proyectos interesantes y seguir aprendiendo cada día más.
+¡Gracias por visitar mi perfil!
