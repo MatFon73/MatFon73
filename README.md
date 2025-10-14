@@ -1,40 +1,70 @@
-<h1 align="center">¡Hola! 👋 Soy Mateo Fonseca</h1>
+# 👋 ¡Hola! Soy Mateo Fonseca
 
-Soy **Ingeniero de Sistemas**. Me enfoco en **desarrollo web (en Proceso)** y **seguridad informática (en Proceso)**. Actualmente, soy programador junior con habilidades básicas en **PHP**, **CSS**, **HTML**, y **JavaScript**, y estoy en constante aprendizaje y mejora.
+## 💻 Ingeniero de Sistemas
 
-## Habilidades
+Desarrollador web apasionado por crear soluciones innovadoras y funcionales. Especializado en desarrollo full-stack con experiencia en múltiples tecnologías web modernas.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
+---
 
-<p align="center">
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+## 🚀 Sobre Mí
 
-## Proyectos Destacados
+🎓 Ingeniero de Sistemas enfocado en el desarrollo web full-stack
 
-<p align="center">
+💡 Me apasiona crear aplicaciones web interactivas y sistemas robustos
 
-| Proyectos | Tecnologías | Estado del Proyecto |
-| --- | --- | --- |
-| Cloud | <p align="center"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </p> | [![GitHub Actions Status](https://img.shields.io/badge/Estado%20del%20Proyecto-Completado-brightgreen)](https://github.com/MatFon73/Cloud) |
-| Servicio De Transportadora | <p align="center"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </p> | [![GitHub Actions Status](https://img.shields.io/badge/Estado%20del%20Proyecto-Completado-brightgreen)](https://github.com/MatFon73/ServicioDeTransportadora) |
-| RockPaperScissor | <p align="center"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </p> | [![GitHub Actions Status](https://img.shields.io/badge/Estado%20del%20Proyecto-Completado-brightgreen)](https://github.com/MatFon73/RockPaperScissor) |
-| Portafolios | <p align="center"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </p> | [![Portafolio](https://img.shields.io/badge/Portafolio-Visitar-blue)](https://github.com/MatFon73/Portafolios) |
+🌱 Constantemente aprendiendo y mejorando mis habilidades técnicas
 
-</p>
+🎯 Comprometido con escribir código limpio y mantenible
 
-## Redes Sociales
-[![Instagram](https://img.shields.io/badge/Instagram-Seguir-ff69b4)](https://www.instagram.com/matfon73/)
-[![Twitter](https://img.shields.io/badge/Twitter-Seguir-1DA1F2)](https://x.com/MatFon73)
+---
 
-¡Gracias por visitar mi perfil!
+## 🛠️ Habilidades Técnicas
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### CMS & Herramientas
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Niveles de dominio:**
+- **Avanzado:** HTML, CSS, Bootstrap, WordPress
+- **Intermedio:** JavaScript, PHP, MySQL, Git, GitHub, Linux
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matfon73&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matfon73&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matfon73&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+## 📫 Contacto
+
+¿Interesado en colaborar o tienes algún proyecto en mente? ¡Hablemos!
+
+- 🌐 **Portafolio**: [matfon73.github.io](https://matfon73.github.io/)
+- 💼 **GitHub**: [@matfon73](https://github.com/matfon73)
+- 💬 **LinkedIn**: [mateo-fonseca-ab939a164](https://www.linkedin.com/in/mateo-fonseca-ab939a164/)
+
+---
+
+*Última actualización: Octubre 2025*
+
+
