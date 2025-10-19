@@ -1,11 +1,5 @@
 # 👋 ¡Hola! Soy Mateo Fonseca
 
-## 💻 Ingeniero de Sistemas
-
-Desarrollador web apasionado por crear soluciones innovadoras y funcionales. Especializado en desarrollo full-stack con experiencia en múltiples tecnologías web modernas.
-
----
-
 ## 🚀 Sobre Mí
 
 🎓 Ingeniero de Sistemas enfocado en el desarrollo web full-stack
@@ -32,8 +26,6 @@ Desarrollador web apasionado por crear soluciones innovadoras y funcionales. Esp
 
 ---
 ## 📫 Contacto
-
-¿Interesado en colaborar o tienes algún proyecto en mente? ¡Hablemos!
 
 - 🌐 **Portafolio**: [matfon73.github.io](https://matfon73.github.io/)
 - 💼 **GitHub**: [@matfon73](https://github.com/matfon73)
