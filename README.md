@@ -15,13 +15,8 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matfon73&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matfon73&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matfon73&theme=tokyonight&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=matfon73&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matfon73&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
 ---
