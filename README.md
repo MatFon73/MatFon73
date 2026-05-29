@@ -1,25 +1,36 @@
-# 👋 ¡Hola! Soy Mateo Fonseca
-
-## 🚀 Sobre Mí
-
-🎓 Ingeniero de Sistemas enfocado en el desarrollo web full-stack
-
-💡 Me apasiona crear aplicaciones web interactivas y sistemas robustos
-
-🌱 Constantemente aprendiendo y mejorando mis habilidades técnicas
-
-🎯 Comprometido con escribir código limpio y mantenible
+**matfon73/matfon73** — Ingeniero de Sistemas / Full-Stack Developer
 
 ---
 
-## 📫 Contacto
+### sobre mi
 
-- 🌐 **Portafolio**: [matfon73.github.io](https://matfon73.github.io/)
-- 💼 **GitHub**: [@matfon73](https://github.com/matfon73)
-- 💬 **LinkedIn**: [mateo-fonseca-ab939a164](https://www.linkedin.com/in/mateo-fonseca-ab939a164/)
+```yaml
+nombre: Mateo Fonseca
+stack:
+  - Vue.js
+  - Laravel
+  - PHP
+  - JavaScript
+enfoque: desarrollo web full-stack
+intereses:
+  - aplicaciones web interactivas
+  - sistemas robustos
+  - codigo limpio y mantenible
+```
+
+### actualmente
+
+- aprendiendo y mejorando habilidades tecnicas constantemente
+- abierto a colaborar en proyectos interesantes
+
+### contacto
+
+```
+portafolio -> matfon73.github.io
+github     -> @matfon73
+linkedin   -> /in/mateo-fonseca-ab939a164
+```
 
 ---
 
-*Última actualización: Octubre 2025*
-
-
+*actualizado: 2026*
