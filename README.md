@@ -7,10 +7,10 @@
 ```yaml
 nombre: Mateo Fonseca
 stack:
-  - Vue.js
-  - Laravel
-  - PHP
+  - React
+  - Express
   - JavaScript
+  - PHP
 enfoque: desarrollo web full-stack
 intereses:
   - aplicaciones web interactivas
